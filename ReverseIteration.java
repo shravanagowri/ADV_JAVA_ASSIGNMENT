@@ -1,3 +1,5 @@
+1c2_linkedlist:*/Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())*/
 package ass1C2;
 import java.util.LinkedList;
 import java.util.Iterator;
